@@ -1,0 +1,6 @@
+cho "# My_R_Code" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/pbandari0718/My_R_Code.git
+git push -u origin master
